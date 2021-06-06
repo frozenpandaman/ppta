@@ -1,0 +1,76 @@
+General
+Unique ID                                : 243210442011074413705965744526331301450 (0xB6F8A0971ADD2649589FB0A4D0454E4A)
+Complete name                            : [eli] Ping Pong The Animation - 01.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 816 MiB
+Duration                                 : 22 min 52 s
+Overall bit rate                         : 4 988 kb/s
+Encoded date                             : UTC 2021-06-04 08:50:59
+Writing application                      : mkvmerge v53.0.0 ('Fool's Gold') 64-bit
+Writing library                          : libebml v1.4.1 + libmatroska v1.6.2
+Attachments                              : AGENCYB.ttf / ARCHRISTY.ttf / CartoonDemiBold.ttf / erasdust.ttf / FeltTipRoman-Regular.ttf / manic-depressive.ttf / MSTKRUFC.ttf / QuaySansMdITCTT Italic.ttf / QuaySansMdITCTT.ttf / ashcanbb.ttf / Brianne_s_hand.ttf / fighting spirit TBS_bold.ttf / PIXEARG.ttf
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5@Main
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 22 min 52 s
+Bit rate                                 : 4 887 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.098
+Stream size                              : 799 MiB (98%)
+Writing library                          : x265 1.7+207-83a7d8244424:[Windows][MSVC 1800][64 bit] 16bpp
+Encoding settings                        : wpp / ctu=64 / min-cu-size=8 / max-tu-size=32 / tu-intra-depth=3 / tu-inter-depth=3 / me=3 / subme=5 / merange=44 / no-rect / no-amp / max-merge=4 / temporal-mvp / no-early-skip / rdpenalty=0 / no-tskip / no-tskip-fast / no-strong-intra-smoothing / no-lossless / no-cu-lossless / no-constrained-intra / no-fast-intra / no-open-gop / no-temporal-layers / interlace=0 / keyint=720 / min-keyint=1 / scenecut=40 / rc-lookahead=72 / lookahead-slices=0 / bframes=9 / bframe-bias=0 / b-adapt=2 / ref=5 / limit-refs=0 / weightp / weightb / aq-mode=1 / aq-strength=1.10 / cbqpoffs=0 / crqpoffs=0 / rd=5 / psy-rd=0.90 / rdoq-level=1 / psy-rdoq=4.00 / signhide / deblock=-2:-2 / no-sao / no-sao-non-deblock / b-pyramid / cutree / rc=crf / crf=15.5 / qcomp=0.80 / qpmin=0 / qpmax=51 / qpstep=5 / ipratio=1.40 / pbratio=1.30
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : Opus
+Codec ID                                 : A_OPUS
+Duration                                 : 22 min 52 s
+Bit rate                                 : 93.3 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 50.000 FPS (960 SPF)
+Compression mode                         : Lossy
+Stream size                              : 15.3 MiB (2%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : ASS
+Codec ID                                 : S_TEXT/ASS
+Codec ID/Info                            : Advanced Sub Station Alpha
+Duration                                 : 22 min 48 s
+Bit rate                                 : 241 b/s
+Count of elements                        : 514
+Compression mode                         : Lossless
+Stream size                              : 40.3 KiB (0%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : :Intro
+00:03:27.999                             : :Opening
+00:04:57.964                             : :Part A
+00:16:03.962                             : :Part B
+00:21:18.026                             : :Ending
+

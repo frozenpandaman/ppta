@@ -1,0 +1,103 @@
+All episodes:
+  AGENCYB.ttf
+  ARCHRISTY.ttf
+  CartoonDemiBold.ttf
+  FeltTipRoman-Regular.ttf
+  MSTKRUFC.ttf
+  QuaySansMdITCTT Italic.ttf
+  QuaySansMdITCTT.ttf
+  erasdust.ttf
+  manic-depressive.ttf
+
+Episode 01:
+  Brianne_s_hand.ttf
+  PIXEARG.ttf
+  ashcanbb.ttf
+  fighting spirit TBS_bold.ttf
+
+Episode 02:
+  Brushcut.ttf
+  ChalkPaint.ttf
+  D3Streetism.ttf
+  Flaphead.ttf
+  GraffitiPaintBrush.ttf
+  HansonsHand-Regular.ttf
+  handageaoe.ttf
+
+Episode 03:
+  IwaGyoPro-Kami-Bd.ttf
+
+Episode 04:
+  JoannaMTStd-SemiBold-mod.otf
+
+Episode 05:
+  BellGothic-Black.otf
+  Calligraph421_BT.ttf
+  Corinthian_LT_1.ttf
+  DFHorrorB-W5.ttf
+  Dan_Hand.ttf
+  Electrofied_Bold.ttf
+  ElmerFont.ttf
+  Fountain Avenue.ttf
+  GennaroPalmieriThorny.ttf
+  Happy Sans_0.ttf
+  Japonesa.ttf
+  Sliced_Juice.ttf
+
+Episode 06:
+  Amienne.ttf
+  Boneribbon.ttf
+  CRPCANDGHANKOIN-M-S.ttf
+  DFHorrorB-W5.ttf
+  FAKTOS.ttf
+  Fawn Script Regular.ttf
+  Filirat1.ttf
+  Happy Sans_0.ttf
+  Muscovy.ttf
+  mareensprint.ttf
+
+Episode 07:
+  Artifikerned.ttf
+  Dokyo.ttf
+  ElmerFont.ttf
+  GRIMACEv2.ttf
+  Go Boom!.ttf
+  badonkadonk.ttf
+
+Episode 08:
+  ArtificeSSK.ttf
+  Artifikerned.ttf
+  Dokyo.ttf
+  ashcanbb.ttf
+  pencilfied.ttf
+
+Episode 09:
+  JENKT.ttf
+  Japonesa.ttf
+  Jenkins_v2.0.ttf
+  Sliced_Juice.ttf
+  fighting spirit TBS_bold.ttf
+
+Episode 10:
+  Japonesa.ttf
+  Sliced_Juice.ttf
+  fighting spirit TBS_bold.ttf
+  pencilfied.ttf
+
+Episode 11:
+  AlyssaKayla-mod.ttf
+  Ander Hedge.ttf
+  Another.ttf
+  Bastard.ttf
+  DENNE-SKETCHY.ttf
+  Filirat1.ttf
+  HowCute-gylP-mod.ttf
+  Japonesa.ttf
+  Jenkins_v2.0.ttf
+  Menlo-Tri.ttf
+  handageaoe.ttf
+  pencilfied.ttf
+
+PV:
+  Brianne_s_hand.ttf
+  Nexa Bold.otf
